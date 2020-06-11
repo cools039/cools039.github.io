@@ -1,0 +1,58 @@
+*{
+	font-family:GEORGIA;
+	font-size:15px;
+	 }
+	 div{
+	 	color: red;
+	 	text-align:center;
+	 }
+div.fc{
+	color: red;
+	text-align: center;
+}
+div.fe{
+	color:red;
+	text-align: center;
+}
+a:hover{
+	color: red;
+
+}
+a:visited{
+	color: blue;
+}
+div.fr{background: black;
+    color:red;
+       
+        }
+ div.fg{ 
+ 	font-size: 50px
+ 	pre
+ }
+ul{
+			list-style-type:none;
+			background-color:red;
+			overflow: hidden;
+			position: sticky;
+			top: 0;
+		
+		}
+		li{
+			display:inline;
+			float:left; 
+		
+		}
+		li a{
+			display: block;
+			color: white;
+			padding: 10px 13px;
+			text-decoration:none;
+		}
+		li a:hover{
+			background-color:grey;
+			color:blue;
+		}
+		li a:active{
+			background-color: yellow;
+			color:green;
+		}
